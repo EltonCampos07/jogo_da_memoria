@@ -13,3 +13,7 @@ Dica. para fazer o computador esperar 3 segundos use a função sleep() presente
 
 * Programa desenvolvido por mim 😝
 * Linguagem utilizadas: C
+* Curso: Ciência da computação
+### Meus contatos: 
+* https://www.linkedin.com/in/eltonapcampos/
+
